@@ -17,7 +17,7 @@ with col1:
     summarizer_button = st.button("Summarize Text", type="primary")
 
 with col2:
-    st.markdown("Powered by Pinitha Savidya")
+    st.markdown("Powered by Vishwa Geethanjana")
 
 if summarizer_button and user_input:
     with st.spinner("Summarizing..."):
